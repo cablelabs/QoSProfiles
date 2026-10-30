@@ -14,11 +14,11 @@ Incubating API Repository to evolve and maintain the definitions and documentati
 * API Repository [wiki page](https://lf-camaraproject.atlassian.net/wiki/x/RwDRRQ)
 
 > [!NOTE]
-> This repository is being split out of [QualityOnDemand](https://github.com/camaraproject/QualityOnDemand), where the `qos-profiles` API was originally defined and released. For releases up to and including QualityOnDemand's Fall25 release (r3.2), see the [QualityOnDemand releases](https://github.com/camaraproject/QualityOnDemand/releases) and the history of [qos-profiles.yaml](https://github.com/camaraproject/QualityOnDemand/commits/main/code/API_definitions/qos-profiles.yaml) there. The initial content seed into this repository is tracked in a separate pull request.
+> The `qos-profiles` API was originally defined and released in [QualityOnDemand](https://github.com/camaraproject/QualityOnDemand) and moved to this repository after QualityOnDemand r4.1. The earlier history of the API definition is in [qos-profiles.yaml](https://github.com/camaraproject/QualityOnDemand/commits/main/code/API_definitions/qos-profiles.yaml) there.
 
 ## Scope
 
-* Service API “qos-profiles” (see APIBacklog.md)
+* Service API “qos-profiles” (see [APIBacklog.md](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md))
 * The API provides the API consumer with the ability to:
   * discover all QoS profiles offered by the API provider
   * discover the available QoS profiles for a specific device
@@ -44,8 +44,7 @@ Incubating API Repository to evolve and maintain the definitions and documentati
 _The above section is automatically synchronized by CAMARA project-administration._
 <!-- CAMARA:RELEASE-INFO:END -->
 
-> [!NOTE]
-> Released versions of `qos-profiles` up to and including `1.2.0-rc.3` can be found in [QualityOnDemand](https://github.com/camaraproject/QualityOnDemand); see the [QualityOnDemand releases](https://github.com/camaraproject/QualityOnDemand/releases) there.
+Released versions of `qos-profiles` up to and including `1.2.0-rc.3` can be found in [QualityOnDemand](https://github.com/camaraproject/QualityOnDemand); see the [QualityOnDemand releases](https://github.com/camaraproject/QualityOnDemand/releases) there.
 
 ## Contributing
 
